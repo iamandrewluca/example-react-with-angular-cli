@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/example-react-with-angular-cli",
             "index": "src/index.html",
-            "main": "src/main.ts",
+            "main": "src/main.tsx",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": true,
